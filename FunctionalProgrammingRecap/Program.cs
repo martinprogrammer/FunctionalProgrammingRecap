@@ -11,7 +11,13 @@ namespace FunctionalProgrammingRecap
         static void Main(string[] args)
         {
             //Delegates.DelegatesPlay();
-            EmptySets.Execute();
+            //EmptySets.Execute();
+            //CompositeFunctions.ExecuteThis();
+            //AsyncFunctions.RunThis();
+            //Tuples.RunTuples();
+            //Closures.Go();
+            //AsyncAwait.ExecuteThis();
+            MoreAsyncAwait.ExecuteThis();
             Console.Read();
         }
     }

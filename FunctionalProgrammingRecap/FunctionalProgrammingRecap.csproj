@@ -41,11 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AsyncAwait.cs" />
+    <Compile Include="AsyncFunctions.cs" />
+    <Compile Include="Closures.cs" />
+    <Compile Include="CompositeFunctions.cs" />
     <Compile Include="Delegates.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="EmptySets.cs" />
+    <Compile Include="MoreAsyncAwait.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tuples.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
